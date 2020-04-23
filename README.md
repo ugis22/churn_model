@@ -8,3 +8,4 @@ For a business in a stipulated period of time, customers can come under 3 major 
 a) Newly Acquired Customers
 b) Existing Customers
 c) Churned Customers
+
