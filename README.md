@@ -6,7 +6,8 @@ One of the metrics to keep track of customer churn is **Retention Rate**, an ind
 
 A powerful tool to analyse and improve Retention Rate is Churn Prediction; a technique that helps to find out which customer is more likely to churn in the given period of time. 
 
----
+#
+
 ### Aims
 
 The aim of this project is to:
