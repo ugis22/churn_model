@@ -1,8 +1,8 @@
 # Customer Retention
 
-> Building a churn model to understand why customers are leaving
+> **Building a churn model to understand why customers are leaving**
 
----
+
 
 Customer Churn, also known as customer attrition, or customer turnover, is the loss of customers and it is an important and challenging problem for ecomerce and online businesses. 
 
