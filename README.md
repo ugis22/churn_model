@@ -1,11 +1,13 @@
 # Customer Retention
-## Building a churn model to understand why customers are leaving
 
-Customer Churn is an important and challenging problem for ecomerce and online businesses. In an Online business, with multiple competitors in the same business its really important to re-engage existing customers and keep them from churning.
+> Building a churn model to understand why customers are leaving
 
-For a business in a stipulated period of time, customers can come under 3 major categories-
+---
 
-a) Newly Acquired Customers
-b) Existing Customers
-c) Churned Customers
+Customer Churn, also known as customer attrition, or customer turnover, is the loss of customers and it is an important and challenging problem for ecomerce and online businesses. 
 
+One of the metrics to keep track of customer churn is **Retention Rate**, an indication of to what degree the products satisfie a strong market demand, known as product-market fit. If a product-market fit is not satisfactory, a company will likely experience customers churning. 
+
+A powerful tool to analyse and improve Retention Rate is Churn Prediction; a technique that helps to find out which customer is more likely to churn in the given period of time. 
+
+---
