@@ -12,26 +12,27 @@ A powerful tool to analyse and improve Retention Rate is Churn Prediction; a tec
 
 The aim of this project is to:
 
-- 
-
--
-
+- Build a classification model to predict which customers will churn
+- Analyze how the different features affect retention or more specifically, customer churn
 
 #
 
 ### Data
 
+The [dataset](https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers) used for this project was obtained from Kaggle. It contains data about customers who are withdrawing their account from a bank.
 
 
 ### Files
 
 This repo contains the following files:
 
--
+- `churn_analysis.ipynb` 
 
--
+- A CSV file named `Churn_Modelling.csv` which contains the data from the bank customers
 
 
+
+a. A jupyter notebook named content_based_music_recommender that contains the code and analysis for the recommedation system.
 
 
 
