@@ -26,14 +26,9 @@ The [dataset](https://www.kaggle.com/adammaus/predicting-churn-for-bank-customer
 
 This repo contains the following files:
 
-- `churn_analysis.ipynb` 
+- A jupyter notebook named `churn_analysis.ipynb` containing the exploratory data analysis, feature engineering, search for the best model, evaluations of the best models found, as well as the analysis of the feature importance.  
 
 - A CSV file named `Churn_Modelling.csv` which contains the data from the bank customers
-
-
-
-a. A jupyter notebook named content_based_music_recommender that contains the code and analysis for the recommedation system.
-
 
 
 
