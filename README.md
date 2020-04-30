@@ -1,3 +1,9 @@
+## Medium Article: 
+
+[How Machine Learning Can Help with Customer Retention](https://towardsdatascience.com/how-machine-learning-can-help-with-customer-retention-6b5bf654e822?source=friends_link&sk=ae71c8351d3028db1aedeb9c11feee12) -- by [Eugenia Inzaugarat](https://medium.com/@meinzaugarat)
+
+---
+
 # Customer Retention
 
 **Customer Churn**, also known as customer attrition, or customer turnover, is the loss of customers and it is an important and challenging problem for ecomerce and online businesses. 
@@ -29,12 +35,6 @@ This repo contains the following files:
 - A jupyter notebook named `churn_analysis.ipynb` containing the exploratory data analysis, feature engineering, search for the best model, evaluations of the best models found, as well as the analysis of the feature importance.  
 
 - A CSV file named `Churn_Modelling.csv` which contains the data from the bank customers
-
-#
-
-## Read more: 
-
-Check my [Medium Publication](https://towardsdatascience.com/how-machine-learning-can-help-with-customer-retention-6b5bf654e822?source=friends_link&sk=ae71c8351d3028db1aedeb9c11feee12)
 
 
 
