@@ -30,6 +30,12 @@ This repo contains the following files:
 
 - A CSV file named `Churn_Modelling.csv` which contains the data from the bank customers
 
+#
+
+## Read more: 
+
+Check my [Medium Publication](https://towardsdatascience.com/how-machine-learning-can-help-with-customer-retention-6b5bf654e822?source=friends_link&sk=ae71c8351d3028db1aedeb9c11feee12)
+
 
 
 
